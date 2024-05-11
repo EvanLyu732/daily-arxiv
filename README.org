@@ -1,0 +1,24 @@
+* daily-arxiv
+
+
+Daily Arxiv is a project that retrieving latest arxiv paper every day and use llm to provide a quick summary for the paper. An example website is .
+
+
+- [ ] build with django #INPROCESS
+- [ ] build frontend #INPROCESS
+- [ ] build backend
+- [ ] deploy to vecel
+
+** Style of paper summaries
+
+For every paper, the summary contains three parts. /what/, /how/, /why/.
+
+ * what: what is paper about
+ * why: why the paper is written 
+ * how: how the paper methods improving performance on specific task compared to related paper?
+
+** Deploy
+
+*** Building With Source Code
+
+*** Docker
