@@ -1,3 +1,6 @@
+#+attr_html: :width 60px
+#+attr_latex: :width 60px
+
 * gpt-daily-arxiv
 
 [[./static/logo.png]]
