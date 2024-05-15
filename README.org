@@ -75,7 +75,7 @@ python3 main.py
 
 Since paper notes are stored in mongodb. I recommend using [[https://github.com/arunbandari/mongo-gui][mongo-gui]] for visualization. 
 
-** TODO
+** Further Works
  - [ ] dockerize this project
  - [ ] build frontend
  - [ ] support customize LLM 
