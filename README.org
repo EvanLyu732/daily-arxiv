@@ -43,7 +43,7 @@ GPt-daily-arxiv is a program that fetches papers using ArXiv RSS feeds and utili
 
 ** Usage
 
-Ensure `OPENAPI_API_KEY` is setted. And if you are behind a proxy set environment variable `OPENAI_PROXY_URL` to your proxy server. Checkout this link:
+Ensure `OPENAPI_API_KEY` is setted. And if you are behind a proxy set environment variable `OPENAI_PROXY_URL` to your proxy server. Checkout this [[https://stackoverflow.com/questions/77606417/openai-api-request-with-proxy][link]]:
 
 *** To update RSS feeds
 modify main.py below codes
