@@ -8,7 +8,7 @@
 
 **  Description
 
-GPt-daily-arxiv is a program that fetches papers using ArXiv RSS feeds and utilizes gpt to summarize the papers.
+gpt-daily-arxiv is a program that fetches papers using ArXiv RSS feeds and utilizes gpt to summarize the papers.
 
 **  State Diagram
 
