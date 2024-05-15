@@ -1,0 +1,13 @@
+# Force GitHub to recognize this as a Python project
+* linguist-detectable=true
+
+# Specify that all .py files are Python files
+*.py linguist-language=Python
+
+# Specify other file types to be recognized as Python (if necessary)
+*.ipynb linguist-language=Python
+*.pyi linguist-language=Python
+
+# Specify that certain directories contain Python code
+src/* linguist-language=Python
+scripts/* linguist-language=Python
